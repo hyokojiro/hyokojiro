@@ -11,3 +11,11 @@
 <div style="display : inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
 </div>
+
+<div style="display : inline_block"><br/>
+  <img align="center" alt="css" src="https://dev.to/envoy_/150-badges-for-github-pnk"
+</div>
+
+<div style="display : inline_block"><br/>
+  <img align="center" alt="JavaScript" src="https://dev.to/envoy_/150-badges-for-github-pnk"
+</div>
