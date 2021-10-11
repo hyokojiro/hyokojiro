@@ -15,3 +15,7 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
+
+![Snake animation](https://github.com/hyokojiro/hyokojiro/blob/3f79e97ad364d3d7af33a33f3b08cadfb7269bb8/.github/workflows/snake.yml)
+
+
