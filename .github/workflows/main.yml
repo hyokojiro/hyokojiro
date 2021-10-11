@@ -40,7 +40,5 @@ jobs:
         uses: Platane/snk@v0.0.18
         with:
           # github user name
-          github_user_name: hyokojiro
-          # path of the generated gif
-          gif_out_path: ./github-contribution-grid-snake.gif
-         
+          github_user_name: ${{ hyokojiro }}
+          svg_out_path: dist/github-contribution-grid-snake.svg
