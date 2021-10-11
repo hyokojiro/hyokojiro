@@ -18,4 +18,5 @@
 
 ![Snake animation](https://github.com/hyokojiro/hyokojiro/blob/3f79e97ad364d3d7af33a33f3b08cadfb7269bb8/.github/workflows/snake.yml)
 
+![Snake animation](https://github.com/hyokojiro/hyokojiro/blob/output/github-contribution-grid-snake.svg)
 
