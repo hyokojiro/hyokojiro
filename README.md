@@ -2,7 +2,7 @@
 - 🔭 Working with Back end, risking a Front-end.
 - 🌱 Studying Python, HTML and CSS.
 
-![Hyokojiro GitHub stats](https://github-readme-stats.vercel.app/api?username=hyokojiro&show_icons=true&theme=radical)
+![Hyokojiro GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSaan&show_icons=true&theme=radical)
 ## Languagens I'm studying:
 
 <div style="display : inline_block"><br/>
