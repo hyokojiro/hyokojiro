@@ -1,6 +1,6 @@
 ### Hello, World! 🤙
 - 🔭 Working with Back end, risking a Front-end.
-- 🌱 Studying Python, HTML and CSS.
+- 🌱 Studying Python, HTML, CSS and JavaScript.
 
 ![Hyokojiro GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSaan&show_icons=true&theme=radical)
 ## Languagens I'm studying:
