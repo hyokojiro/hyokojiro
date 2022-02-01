@@ -24,6 +24,5 @@
   <img align="center" alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" />
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   
-![Snake animation](https://github.com/JonathanSaan)
-
+![Snake animation](https://github.com/JonathanSaan/JonathanSaan)
 </div>
