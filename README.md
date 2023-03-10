@@ -1,5 +1,5 @@
 ### Hello, World! 🤙
-<div align="center">  
+<div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JonathanSaan&show_icons=true&count_private=true&hide_border=true&title_color=c307f2&icon_color=c307f2f&text_color=c9d1d9&bg_color=0d1117" alt="Jonathan Saan" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSaan&&layout=compact&hide_border=true&title_color=c307f2&text_color=00bfbf&bg_color=0d1117" />
 </div><br>
