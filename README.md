@@ -34,6 +34,7 @@
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" />
   <img align="center" alt="Jest" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" />
   <img align="center" alt="Nest" height="40" width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" />
+  <img align="center" alt="Fastify" height="40" width="40" src="https://user-images.githubusercontent.com/46967826/235814699-7bf7e5ce-19d1-469b-9efe-fe89412349d8.png" />
   <img align="center" alt="Docker" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
   <img align="center" alt="Redis" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" />
 </div><br>
