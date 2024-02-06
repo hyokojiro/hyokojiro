@@ -36,6 +36,7 @@
   <img align="center" alt="Nest" height="40" width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" />
   <img align="center" alt="Fastify" height="40" width="40" src="https://user-images.githubusercontent.com/46967826/235814699-7bf7e5ce-19d1-469b-9efe-fe89412349d8.png" />
   <img align="center" alt="Docker" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
+  <img align="center" alt="Swift" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" />
   <img align="center" alt="Redis" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" />
 </div><br>
 
