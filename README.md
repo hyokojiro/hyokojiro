@@ -15,28 +15,28 @@
   <img align="center" alt="Nuxt" height="40" width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ebd92b15-970a-45b8-8c4c-0ecf69b17cdc" />
   <img align="center" alt="Vue" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" />
   <img align="center" alt="Node" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" />
+  <img align="center" alt="Redis" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" />
   <img align="center" alt="MongoDB" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" />
   <img align="center" alt="HTML" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" />
-  <img align="center" alt="Csharp" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" />
-  <img align="center" alt="Python" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />
   <img align="center" alt="CSS" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" />
   <img align="center" alt="Tailwind CSS" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" />
   <img align="center" alt="SCSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+  <img align="center" alt="Csharp" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" />
+  <img align="center" alt="Python" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />
   <img align="center" alt="Git" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />
 </div>
 
 ### Skills I'm Learning:
 <div valign="top">
-  <img align="center" alt="Redis" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" />
-  <img align="center" alt="Docker" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" />
+  <img align="center" alt="Fastify" height="40" width="40" src="https://user-images.githubusercontent.com/46967826/235814699-7bf7e5ce-19d1-469b-9efe-fe89412349d8.png" />
 </div>
 
 ### Skills I Plan to Learn:
 <div valign="top">
-  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" />
   <img align="center" alt="Jest" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" />
-  <img align="center" alt="Fastify" height="40" width="40" src="https://user-images.githubusercontent.com/46967826/235814699-7bf7e5ce-19d1-469b-9efe-fe89412349d8.png" />
   <img align="center" alt="Swift" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" />
+  <img align="center" alt="Docker" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
 </div><br>
 
 ![Snake animation](https://github.com/JonathanSaan/JonathanSaan/blob/output/github-contribution-grid-snake.svg)
